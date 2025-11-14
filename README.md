@@ -1,8 +1,8 @@
 # GAME_PROGRAM-EX--2
 # Create a player movement using character, collectable, player health and score 
 
-## Name : Hari Ram R
-## Reg No : 212224240050
+## Name : R N SOMNATH
+## Reg No : 212224240158
 
 # Aim
 
